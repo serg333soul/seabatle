@@ -4,7 +4,7 @@ from general_func import print_board
 from general_func import count_app_ships
 from comp_board_field import *
 from global_variable import *
-
+# show git
 #board_comp = gen_board()
 #c_b = create_comp_ships(board_comp)
 
